@@ -1,7 +1,7 @@
-bsave() {
+save() {
 	printf "\033[1;91m(\033[1;97m Saved in /sdcard/Read-More\033[1;91m)\n"
 	}
-	anner() {
+	banner() {
 	clear
 	random
 	figlet Read More
