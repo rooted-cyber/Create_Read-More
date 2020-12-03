@@ -1,5 +1,11 @@
 
 
+
+## Telegram Group : https://t.me/rootedcyber1
+
+## Re-Open Whatsapp Group : https://chat.whatsapp.com/JH8SqlhcIeX0IeC1t2RWmu
+
+
 <img src="https://github.com/rooted-cyber/Create_Read-More/raw/master/images/cr.png" style="width:300px;height:400px;">
 <img src="https://github.com/rooted-cyber/Create_Read-More/raw/master/images/cr2.png" style="width:300px;height:400px;">
 <pre>
